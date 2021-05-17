@@ -1,8 +1,5 @@
 <h1 align='center'> Hi there 👋, I'm Fatih Deniz</h1>
 
- <details>
- <summary> 🌟 GitHub Stats </summary>
-
 ### Here is What I'm working On! 👋
 
 
