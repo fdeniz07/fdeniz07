@@ -1,5 +1,14 @@
 <h1 align='center'> Hi there 👋, I'm Fatih Deniz</h1>
 
+| **Language** | **About Me** |
+| -------------: | :------------- |
+| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello, my name is Fatih Deniz. I graduated from Selcuk University Computer Technologies and Programming in 2006. Until 2012, I worked in various positions in the IT department of many companies in Turkey. I have been living in Germany since the end of 2012. I worked actively as a System and Network Administrator for a company until May 2020. Since May 2020, I have been training and updating my information on various platforms. I am currently working actively in ASP.NET MVC Core, Java and Unity fields. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, benim adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi güncellemekteyim. Şuan aktif olarak ASP.NET MVC Core, Java ve Unity alanlarında çalışmaktayım. |
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width='96'>  | Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss an der Computertechnologie und Programmierung der Universität Selcuk gemacht. Bis 2012 war ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai 2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 trainiere und aktualisiere ich meine Informationen auf verschiedenen Plattformen. Ich arbeite derzeit aktiv in den Bereichen ASP.NET MVC Core, Java und Unity. |
+
+
+
+<!--
 ### Here is What I'm working On! 👋
 
 
@@ -13,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn] (www.linkedin.com/in/denizfatih)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to learn and discover new things
-
+-->
 
 <i>Follow me around the web:</i><br>
 
