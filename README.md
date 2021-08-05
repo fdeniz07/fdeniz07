@@ -58,8 +58,8 @@ Here are some ideas to get you started:
   <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=onedark" alt="fdeniz07" /></a> </p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub
+" alt="fdeniz07" /></a> </p>
 
 ## My Utilities and Achievements
 
