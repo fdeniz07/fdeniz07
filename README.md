@@ -60,6 +60,8 @@ Here are some ideas to get you started:
   <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
 </p>>
 
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub" /></a> </p>
+
 ## My Utilities and Achievements
 
   ### Backend
