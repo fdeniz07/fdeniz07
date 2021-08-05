@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 
 <br />
 
+<p float="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
+</p>>
+
 ## My Utilities and Achievements
 
   ### Backend
