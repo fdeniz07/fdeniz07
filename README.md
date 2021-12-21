@@ -106,7 +106,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /> 
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="40" /> 
  <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
-  <img src="https://www.newvoiceinternational.com/wp-content/uploads/2016/07/Microsoft-Hyper-V-Logo.png" width="80" height="40" />
+  <img src="https://image.pngaaa.com/442/168442-middle.png" width="80" height="40" />
   
 </p>
 
