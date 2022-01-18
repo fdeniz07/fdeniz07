@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub" alt="fdeniz07" /></a> </p>
 </div>
 
+![snake gif](https://github.com/fdeniz07/fdeniz07/blob/output/github-contribution-grid-snake.gif)
+
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
 
 <a href="https://github.com/fdeniz07"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
