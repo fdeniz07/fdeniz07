@@ -1,5 +1,12 @@
 <h1 align='center'> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Fatih Deniz</h1>
 
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Merve+Karabulut;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+</p>
+-->
+
+
 
 | **Language** | **About Me** |
 | -------------: | :------------- |
@@ -55,7 +62,7 @@ Here are some ideas to get you started:
 
 <!--![Visitor Count](https://profile-counter.glitch.me/{fdeniz07}/count.svg)-->
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdeniz07&label=Profile%20views&color=0e75b6&style=flat" alt="fdeniz07" /> </p>-->
-
+<hr />
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub" alt="fdeniz07" />
@@ -79,11 +86,30 @@ Here are some ideas to get you started:
 </a>
 </div>
 <br />
-
+<!--
 <p float="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
 </p>
+-->
+<hr />
+<!-- <table><tr>
+    <td valign="top" width="100%">
+        <div align="center">
+           <h2> <b> Language and Tools </b> </h2>
+        </div>
+        <div align="center">  
+         <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+            <img style="margin: 10px" alt="Vue" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
+            <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
+            <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+        </div></td><td valign="top" width="50%">
+        </tr>
+</table>-->
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=xcode" /></div>
 </div>
+
+
+
 
 ## My Utilities and Achievements
 
