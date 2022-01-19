@@ -1,4 +1,5 @@
-<h1 align='center'> Hi there 👋, I'm Fatih Deniz</h1>
+<h1 align='center'> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Fatih Deniz</h1>
+
 
 | **Language** | **About Me** |
 | -------------: | :------------- |
@@ -24,47 +25,65 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to learn and discover new things
 -->
 
-<i>Follow me around the web:</i><br>
+ <!--Statistics-->
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/originalphreak/">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+<div align="center">
+  <a href="https://github.com/fdeniz07/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=fdeniz07&color=blue">
+  </a>
+  <a href="https://github.com/fdeniz07?tab=followers">
+    <img align="center"  src="https://img.shields.io/github/followers/fdeniz07?style=flat-square&color=red">
+  </a>
+</div>
+</br>
+<div align="center">
+  <i>Follow me around the web:</i>
+  <div align="center">
+    <div align="center">
+    <a href="https://www.linkedin.com/in/denizfatih" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/fatih_deniz_07" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/fdeniz07" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+  </div>
+</div>
+</br>
 
-<a href="https://www.linkedin.com/in/denizfatih" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!--![Visitor Count](https://profile-counter.glitch.me/{fdeniz07}/count.svg)-->
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdeniz07&label=Profile%20views&color=0e75b6&style=flat" alt="fdeniz07" /> </p>-->
 
-<a href="https://www.instagram.com/fatih_deniz_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-<a href="https://www.facebook.com/fdeniz07" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-<!--<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> -->
-
-<!--<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>-->
-
-**Profile Views**
-
-![Visitor Count](https://profile-counter.glitch.me/{fdeniz07}/count.svg)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdeniz07&label=Profile%20views&color=0e75b6&style=flat" alt="fdeniz07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub" alt="fdeniz07" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub" alt="fdeniz07" />
+  </a> 
 </div>
 
+<div>
+<a href="https://github.com/fdeniz07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=radical&date_format=j%20M%5B%20Y%5D" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&show_icons=true&theme=radical" />
+</a>
 
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
-
-<a href="https://github.com/fdeniz07"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-
-<a href="https://github.com/fdeniz07"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
-
+<a href="https://github.com/fdeniz07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+</a>
+</div>
 <br />
 
 <p float="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
 </p>
-
+</div>
 
 ## My Utilities and Achievements
 
