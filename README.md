@@ -2,7 +2,7 @@
 
 <!--
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Merve+Karabulut;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Fatih+Deniz;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 -->
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 </br>
 <div align="center">
-  <i>Follow me around the web:</i>
+  <h5><a>Follow me around the web:</a></h5>
   <div align="center">
     <div align="center">
     <a href="https://www.linkedin.com/in/denizfatih" target="_blank">
