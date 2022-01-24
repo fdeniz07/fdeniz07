@@ -42,7 +42,6 @@ Here are some ideas to get you started:
     <img align="center"  src="https://img.shields.io/github/followers/fdeniz07?style=flat-square&color=red">
   </a>
 </div>
-</br>
 <div align="center">
   <h5><a>Follow me around the web:</a></h5>
   <div align="center">
