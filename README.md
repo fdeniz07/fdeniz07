@@ -159,6 +159,7 @@
                         <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" width="40" height="40" />
                         <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" />
                         <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" />
+                        <img src="https://user-images.githubusercontent.com/81612480/170163379-f53ba965-2c0f-4c95-9a53-a5dd61c7d058.jpg" width="60" height="40" />
                         <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" />
                     </td>
