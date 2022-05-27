@@ -81,6 +81,9 @@
         <a href="https://github.com/anuraghazra/github-readme-stats">
            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&show_icons=true&theme=radical"/>
         </a>
+        <p align="center">
+          <a href="https://wakatime.com/share/@fdeniz07/33b654b2-e151-4188-aa72-d2e6a42010ae.svg"><img width="700" src="https://wakatime.com/share/@fdeniz07/33b654b2-e151-4188-aa72-d2e6a42010ae.svg"></a>
+        </p>
     </div>
     <div>
         <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=xcode" />
