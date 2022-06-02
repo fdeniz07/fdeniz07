@@ -76,7 +76,7 @@
     </div>
     <div>
         <h2> Stuff I worked on last week  
-            <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> 
+            <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
         </h2>
         <a href="https://github.com/anuraghazra/github-readme-stats">
            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&theme=radical"/>
@@ -94,7 +94,7 @@
 <hr />
 <div align="center">
     <div>
-        <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+        <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
     </div>
     <div>
         <table border="2" width="70%" cellpadding="10" cellspacing="10">
