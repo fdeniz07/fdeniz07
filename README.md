@@ -81,11 +81,12 @@
         <a href="https://github.com/anuraghazra/github-readme-stats">
            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07"/>
         </a>
-        </br>
+        <hr/>
         <p align="center">
           <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@fdeniz07/10d2b82c-b202-4c80-a0b0-718ff2e744b6.png"></a>
         </p>
     </div>
+       <hr/>
     <div>
         <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=xcode" />
     </div>
@@ -93,7 +94,7 @@
 
 
 <hr />
-<div align="center">
+<div>
     <div>
         <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
     </div>
