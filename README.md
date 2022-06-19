@@ -51,9 +51,7 @@
         </a>
     </div>
 </div>
-
 </br>
-
 <hr />
 <div align="center">
     <div>
