@@ -168,6 +168,7 @@
                         <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" />
                         <img src="https://user-images.githubusercontent.com/81612480/170480203-60c67047-34c5-4254-8b61-93959d793b60.png" width="60" height="50" />
+                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" />
                     </td>
                   </tr>
             </tbody>
