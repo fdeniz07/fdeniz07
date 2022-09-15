@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+software+developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
 </p>
 
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
