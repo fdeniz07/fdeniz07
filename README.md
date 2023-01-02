@@ -144,7 +144,7 @@
                         <img src="https://user-images.githubusercontent.com/81612480/170156579-7222c5ef-fd78-40e6-a79f-52ff47da973a.png" width="60" height="40"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"/>
                     </td>
-                    </tr>
+                  </tr>
                   <tr>
                     <th>OS</td>
                       <td>
@@ -170,6 +170,13 @@
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" />
                         <img src="https://user-images.githubusercontent.com/81612480/170480203-60c67047-34c5-4254-8b61-93959d793b60.png" width="60" height="50" />
                         <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" />
+                    </td>
+                  </tr>
+                  <tr>
+                    <th>Software Development Life Cycle - Agile</td>
+                     <td>
+                        <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40"/>
+                        <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40"/>
                     </td>
                   </tr>
             </tbody>
