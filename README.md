@@ -81,12 +81,8 @@
         </a>
         <hr/>
         <p align="center">
-          <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@fdeniz07/10d2b82c-b202-4c80-a0b0-718ff2e744b6.png"></a>
+          <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@fdeniz07/0213d8c9-d802-4d88-b711-1a3e43e247f6.png"></a>
         </p>
-    </div>
-       <hr/>
-    <div>
-        <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=xcode" />
     </div>
 </div>
 
