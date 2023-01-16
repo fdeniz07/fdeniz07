@@ -46,8 +46,13 @@
         <a href="https://www.instagram.com/fatih_deniz_07" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
         </a>
+        <!--
         <a href="https://www.facebook.com/fdeniz07" target="_blank">
             <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+        </a>
+        -->
+        <a>
+            <img align="center" src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
         </a>
     </div>
 </div>
