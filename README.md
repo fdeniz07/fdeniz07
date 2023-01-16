@@ -1,6 +1,3 @@
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
-<a href="https://github.com/nextcloud/cms_pico" target="_blank">cms_pico</a>
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
 </p>
