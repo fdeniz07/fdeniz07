@@ -51,7 +51,7 @@
             <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
         </a>
         -->
-        <a href="https://www.twitter.com/fdeniz_07" target="_blank">
+        <a href="https://www.twitter.com/fdeniz_07" target="_blank"  rel="noreferrer noopener">
             <img align="center" src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
         </a>
     </div>
