@@ -34,7 +34,7 @@
         </a>
         <a href="https://github.com/fdeniz07?tab=followers">
             <img align="center"  src="https://img.shields.io/github/followers/fdeniz07?style=flat-square&color=red">
-        </a>
+        </a>      
     </div>
     <div>
         <h5><a>Follow me around the web:</a></h5>
@@ -85,6 +85,11 @@
            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07"/>
         </a>
         <hr/>
+          </br>
+        <a href="https://wakatime.com/@e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f">
+             <img src="https://wakatime.com/badge/user/e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f.svg" alt="Total time coded since Jan 19 2022" />
+        </a>
+        </br>
         <p align="center">
           <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@fdeniz07/0213d8c9-d802-4d88-b711-1a3e43e247f6.png"></a>
         </p>
@@ -93,6 +98,9 @@
 
 
 <hr />
+
+
+
 <div>
     <div>
         <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
