@@ -66,15 +66,16 @@
     </div>
     <div>
         <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
         </a>
+        <br>
         <a href="https://git.io/streak-stats">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=radical&date_format=j%20M%5B%20Y%5D" />
         </a>
     </div>
     <div>
         <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
         </a>
     </div>
     <div>
@@ -82,7 +83,7 @@
             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
         </h2>
         <a href="https://wakatime.com">
-           <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07"/>
+           <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fdeniz07" />
         </a>
         <hr/>
           </br>
