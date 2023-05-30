@@ -59,32 +59,37 @@
 </br>
 <hr />
 <div align="center">
-    <div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
+  </div>
+  <br>
+    <!-- <div>
         <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&row=1&column=7&theme=darkhub" alt="fdeniz07" />
         </a>
-    </div>
+    </div> -->
     <div>
         <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false" />
         </a>
         <br>
+        <br>
         <a href="https://git.io/streak-stats">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=radical&date_format=j%20M%5B%20Y%5D" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=dark&date_format=j%20M%5B%20Y%5D" />
         </a>
     </div>
+    <br>
     <div>
         <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=10" />
         </a>
     </div>
     <div>
+     <hr/>
         <h2> Stuff I worked on last week  
             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
         </h2>
-        <a href="https://wakatime.com">
-           <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fdeniz07" />
-        </a>
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
         <hr/>
           </br>
         <a href="https://wakatime.com/@e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f">
