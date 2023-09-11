@@ -174,16 +174,16 @@
                     <th>Tools</th>
                       <td>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-                         <img src ="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="40" height="40" />
+                        <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" />
                         <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40"                            height="40"/>   
                         <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" />
-                        <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" width="40" height="40" />
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" />
                         <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" />
                         <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" />
-                        <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" width="60" height="40" />
+                        <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="40" height="40" />
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/2560px-Vmware.svg.png" width="100" height="30" />
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170480203-60c67047-34c5-4254-8b61-93959d793b60.png" width="60" height="50" />
+                        <img src="https://1000marken.net/wp-content/uploads/2021/01/WordPress-Logo.png" width="80" height="40" />
                         <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" />
                     </td>
                   </tr>
