@@ -75,7 +75,7 @@
         <br>
         <br>
         <a href="https://git.io/streak-stats">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=dark&date_format=j%20M%5B%20Y%5D" />
+            <img align="center" src="https://streak-stats.demolab.com?user=Fdeniz07&theme=highcontrast&mode=weekly&exclude_days=Mon" />
         </a>
     </div>
     <br>
