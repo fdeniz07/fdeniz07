@@ -81,15 +81,16 @@
     <br>
     <div>
         <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=20" />
         </a>
     </div>
     <div>
      <hr/>
-        <h2> Stuff I worked on last week  
+        <h2> Technologies I have worked with over the past year (based on my WakaTime statistics):
             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
         </h2>
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&range=last_7_days&theme=highcontrast&hide_border=false&layout=" alt="Wakatime Stats" width="480" />
+         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&theme=highcontrast&hide_border=false&layout=compact" alt="Wakatime Stats" width="480" />
+          <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&layout=compact&langs_count=20" alt="Wakatime Stats" width="480" />-->
         <hr/>
           </br>
         <a href="https://wakatime.com/@e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f">
