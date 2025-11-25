@@ -145,59 +145,88 @@
                         <img src="https://user-images.githubusercontent.com/81612480/170154517-40e63112-9249-4fb1-90f6-70ce35af9086.png" width="40" height="40" alt="Nodejs"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".Net"/>
                         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" alt="Unity"/>
-                        <img src="https://banner2.cleanpng.com/lnd/20241227/fz/c722e0db93d0060200d95312d48c99.webp" width="40" height="40" alt="Springboot"/>
-                        <img src="https://files.codingninjas.in/article_images/gwt-vs-jsf-1-1657457594.webp" width="80" height="50" alt="JSF"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" width="40" height="40" alt="Springboot"/>
+                        <img src="https://gokhan.ozar.net/wp-content/uploads/jsf-logo.jpg" width="80" height="50" alt="JSF"/>
                     </td>
                   </tr>
                   <tr>
                     <th>Database</td>
                       <td>
-                        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="60" height="40"/>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="40"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170155385-a4f08eaf-3476-4c57-82a9-6a6488ab36c6.png" width="40" height="40"/>
-                        <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="80" height="40"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="60" height="40" alt="MS SQL"/>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="40" alt="PostgreSql"/>
+                        <img src="https://user-images.githubusercontent.com/81612480/170155385-a4f08eaf-3476-4c57-82a9-6a6488ab36c6.png" width="40" height="40" alt="MySql"/>
+                        <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="80" height="40" alt="MongoDb"/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th>Caching & Quee</td>
+                      <td>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="80" height="40" alt="Redis"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/H2_logo.png" width="80" height="40" alt="H2"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="80" height="40" alt="ElasticSearch"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="80" height="40" alt="RabbitMq"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_Solr_logo.svg" width="80" height="40" alt="Apache SOLR"/> 
                     </td>
                   </tr>
                   <tr>
                     <th>Cloud</td>
                      <td>
-                        <img src="https://user-images.githubusercontent.com/81612480/170156579-7222c5ef-fd78-40e6-a79f-52ff47da973a.png" width="60" height="40"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"/>
-                    </td>
+                        <img src="https://user-images.githubusercontent.com/81612480/170156579-7222c5ef-fd78-40e6-a79f-52ff47da973a.png" width="60" height="40" alt="Azure"/>
+                        <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"alt="Docker"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="40" alt="AWS"/>    
+                     </td>
                   </tr>
                   <tr>
                     <th>OS</td>
                       <td>
-                        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png" width="40" height="40" />
-                        <img src ="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" width="40" height="40" />
-                        <img src ="https://www.ateamsystems.com/wp-content/uploads/2016/11/freebsd-logo.png" width="40" height="40" />
-                        <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" />
-                        <img src ="https://user-images.githubusercontent.com/81612480/170157154-a7c13e18-f437-4e10-8ed3-8b10339482f5.png" width="40" height="40" />
+                        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png" width="40" height="40" alt=""/>
+                        <img src ="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" width="40" height="40" alt=""/>
+                        <img src ="https://www.ateamsystems.com/wp-content/uploads/2016/11/freebsd-logo.png" width="40" height="40" alt=""/>
+                        <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" alt=""/>
+                        <img src ="https://user-images.githubusercontent.com/81612480/170157154-a7c13e18-f437-4e10-8ed3-8b10339482f5.png" width="40" height="40" alt=""/>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th>Editors</th>
+                      <td>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt=""/>
+                        <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" alt=""/>
+                        <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40" alt=""/>   
+                        <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt=""/>
+                        <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" alt=""/>
+                        <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="30" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/2560px-Vmware.svg.png" width="100" height="30" />
+                        <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="80" height="40" alt=""/>
+                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" alt=""/>            
                     </td>
                   </tr>
                   <tr>
                     <th>Tools</th>
                       <td>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-                        <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" />
-                        <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40"/>   
-                        <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" />
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" />
-                        <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" />
-                        <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" />
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="30" />
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt=""/>
+                        <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" alt=""/>
+                        <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40" alt=""/>   
+                        <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt=""/>
+                        <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" alt=""/>
+                        <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="30" alt=""/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/2560px-Vmware.svg.png" width="100" height="30" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" />
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="80" height="40" />
-                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" />
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" />            
+                        <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="80" height="40" alt=""/>
+                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" alt=""/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" alt=""/>            
                     </td>
                   </tr>
                   <tr>
                     <th>Software Development Life Cycle - Agile</td>
                      <td>
-                        <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40"/>
+                        <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40" alt=""/>
+                        <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40" alt=""/>
                     </td>
                   </tr>
             </tbody>
