@@ -186,7 +186,7 @@
                         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="30" />
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/2560px-Vmware.svg.png" width="100" height="30" />
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" />
-                        <img src="https://1000marken.net/wp-content/uploads/2021/01/WordPress-Logo.png" width="80" height="40" />
+                        <img src="https://commons.wikimedia.org/wiki/File:WordPress_blue_logo.svg" width="80" height="40" />
                         <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" />
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" />            
                     </td>
