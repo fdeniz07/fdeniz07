@@ -134,7 +134,7 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
                         <img src="https://user-images.githubusercontent.com/81612480/170154947-688736c7-2026-4a43-9633-ce5d0facae9e.png" width="50" height="50" alt="Angular"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170480034-7a192755-70ef-4d44-8fe3-dcef22f4869b.png" width="40" height="40" alt="Typescript"/>
-                        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nHn9D6oS--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/409qgloh9brwc9eg1ym5.png" width="80" height="50" alt="Blazor"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="80" height="50" alt="Blazor"/>
                     </td>
                  </tr>
                   <tr>
