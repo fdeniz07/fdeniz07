@@ -148,7 +148,7 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".Net"/>
                         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" alt="Unity"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" width="40" height="40" alt="Springboot"/>
-                        <img src="https://gokhan.ozar.net/wp-content/uploads/jsf-logo.jpg" width="40" height="40" alt="JSF"/>
+                        <img src="https://gokhan.ozar.net/wp-content/uploads/jsf-logo.jpg" width="60" height="40" alt="JSF"/>
                     </td>
                   </tr>
                   <tr>
