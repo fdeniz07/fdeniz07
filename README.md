@@ -172,7 +172,6 @@
                     <th>Cloud</td>
                      <td>
                         <img src="https://user-images.githubusercontent.com/81612480/170156579-7222c5ef-fd78-40e6-a79f-52ff47da973a.png" width="60" height="40" alt="Azure"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"alt="Docker"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="40" alt="AWS"/>    
                      </td>
                   </tr>
@@ -189,29 +188,16 @@
                   <tr>
                     <th>Editors</th>
                       <td>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt=""/>
                         <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" alt=""/>
                         <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40" alt=""/>   
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" width="40" height="40" alt="cursor"/>
                         <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" alt=""/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt=""/>
-                        <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" alt=""/>
-                        <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" alt=""/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="30" alt=""/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/2560px-Vmware.svg.png" width="100" height="30" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" alt=""/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="80" height="40" alt=""/>
-                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" alt=""/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" alt=""/>            
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt=""/>     
                     </td>
                   </tr>
                   <tr>
                     <th>Tools</th>
                       <td>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt=""/>
-                        <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" alt=""/>
-                        <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40" alt=""/>   
-                        <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" alt=""/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt=""/>
                         <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" alt=""/>
                         <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" alt=""/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="30" alt=""/>
@@ -219,14 +205,19 @@
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="80" height="40" alt=""/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="80" height="40" alt=""/>
                         <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="50" alt=""/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" alt=""/>            
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="30" alt="Slack"/>        
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Microsoft_Office_Teams_%282019%E2%80%932025%29.svg" width="80" height="30" alt="Teams"/>     
                     </td>
                   </tr>
                   <tr>
-                    <th>Software Development Life Cycle - Agile</td>
+                    <th>Dev-Ops</td>
                      <td>
-                        <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40" alt=""/>
-                        <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40" alt=""/>
+                        <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40" alt="Scrum"/>
+                        <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40" alt="Kanban"/>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="Github"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" width="40" height="40" alt="Bitbucket"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="60" height="40" alt="jira"/>
+                        <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"alt="Docker"/>
                     </td>
                   </tr>
             </tbody>
