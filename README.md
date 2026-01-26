@@ -59,23 +59,13 @@
 </br>
 <hr />
 <div align="center">
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
-  </div>
+    <div>
+        <img src="https://github-readme-streak-stats-ochre-rho.vercel.app?user=fdeniz07&theme=dark&hide_border=true" />
+     </div>
   <br>
-    <!-- <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=fdeniz07&row=1&column=7&theme=darkhub" alt="fdeniz07" />
-        </a>
-    </div> -->
     <div>
         <a href="https://github.com/fdeniz07">
             <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false" />
-        </a>
-        <br>
-        <br>
-        <a href="https://git.io/streak-stats">
-            <img align="center" src="https://streak-stats.demolab.com?user=Fdeniz07&theme=highcontrast&mode=weekly&exclude_days=Mon" />
         </a>
     </div>
     <br>
