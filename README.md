@@ -59,6 +59,21 @@
 </br>
 <hr />
 <div align="center">
+<h2> 📈 GitHub Profile Summary</h2>
+</div>
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdeniz07&theme=monokai)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdeniz07&theme=monokai)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fdeniz07&theme=monokai)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fdeniz07&theme=monokai)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdeniz07&theme=monokai)
+
+</div>
+
+<div align="center">
     <div>
         <img src="https://github-readme-streak-stats-ochre-rho.vercel.app?user=fdeniz07&theme=dark&hide_border=true" />
      </div>
@@ -79,7 +94,7 @@
         <h2> Technologies I have worked with over the past year (based on my WakaTime statistics):
             <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
         </h2>
-         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&theme=highcontrast&hide_border=false&layout=compact" alt="Wakatime Stats" width="480" />
+         <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&theme=highcontrast&hide_border=false&layout=compact" alt="Wakatime Stats" width="480" /> -->
           <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&layout=compact&langs_count=20" alt="Wakatime Stats" width="480" />-->
         <hr/>
           </br>
@@ -92,12 +107,7 @@
         </p>
     </div>
 </div>
-
-
 <hr />
-
-
-
 <div>
     <div>
         <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
@@ -215,4 +225,11 @@
             </tbody>
         </table>
     </div>
+</div>
+
+<h2>💰 You can help me by Donating</h2>
+<div>
+     <a href="https://paypal.me/Fdeniz07">
+            <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+        </a>
 </div>
