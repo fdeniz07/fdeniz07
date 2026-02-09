@@ -130,7 +130,7 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="40" height="40" alt="SASS" />
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascript"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" width="60" height="40" alt="Ajax"/>    
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" width="60" height="40" alt="Ajax"/>    
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
                         <img src="https://user-images.githubusercontent.com/81612480/170154947-688736c7-2026-4a43-9633-ce5d0facae9e.png" width="50" height="50" alt="Angular"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170480034-7a192755-70ef-4d44-8fe3-dcef22f4869b.png" width="40" height="40" alt="Typescript"/>
