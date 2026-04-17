@@ -16,11 +16,11 @@
             </td>
          </tr>
           <tr>
-            <td><img src="https://www.flaticon.com/free-icon/turkey_14009824?term=turkey+flags&page=1&position=7&origin=search&related_id=14009824" width='96'></td>
+             <td> <img width="96" alt="turkey" src="https://github.com/user-attachments/assets/bdd25cbf-d6dd-41b8-98f3-981932e4c2cb" /></td>
             <td>Merhaba, adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar                           Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif                   bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi                       güncellemekteyim. Şuan aktif olarak ASP.NET Core, Java ve Unity alanlarında çalışmaktayım.</td>
           </tr>
           <tr>
-            <td><img src="https://tr.wikipedia.org/wiki/Almanya_bayra%C4%9F%C4%B1#/media/Dosya:Flag_of_Germany.svg" width='96'></td>
+            <td> <img width="256" alt="german" src="https://github.com/user-attachments/assets/21b99a80-b5b2-416b-9058-7d38e5450a57" /></td>
             <td>Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war                  ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai                    2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 bilde ich mich auf verschiedenen Plattformen fort,                       damit meine Kenntnisse immer auf den neuesten Stand sind. Ich bilde mich derzeit in den Bereichen ASP.NET Core, Java und Unity weiter.</td>
           </tr>
     </tbody>
@@ -113,7 +113,7 @@
         <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
     </div>
     <div>
-        <table border="2" width="70%" cellpadding="10" cellspacing="10">
+        <table border="2" width="100%" cellpadding="10" cellspacing="10">
             <thead>
               <tr>
                 <th></th>
