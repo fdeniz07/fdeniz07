@@ -113,7 +113,7 @@
         <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
     </div>
     <div>
-        <table border="2" width="100%" cellpadding="10" cellspacing="10">
+        <table border="2" width="70%" cellpadding="10" cellspacing="10">
             <thead>
               <tr>
                 <th></th>
@@ -154,7 +154,7 @@
                   <tr>
                     <th>Database</td>
                       <td>
-                        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="60" height="40" alt="MS SQL"/>
+                        <img src="https://github.com/user-attachments/assets/2b76f870-fccd-411f-9008-e4e4bb7e9f20" alt="sqlserver" width="60" height="40" alt="MS SQL"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="40" alt="PostgreSql"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170155385-a4f08eaf-3476-4c57-82a9-6a6488ab36c6.png" width="40" height="40" alt="MySql"/>
                         <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="80" height="40" alt="MongoDb"/>
@@ -163,7 +163,7 @@
                   <tr>
                     <th>Caching & Quee</td>
                       <td>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="80" height="40" alt="Redis"/> 
+                        <img src="https://github.com/user-attachments/assets/adff645e-9fa2-48be-87b0-ff8f33c2224b" width="40" height="40" alt="Redis"/> 
                         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/H2_logo.png" width="40" height="40" alt="H2"/> 
                         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="80" height="40" alt="ElasticSearch"/> 
                         <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="80" height="40" alt="RabbitMq"/> 
@@ -180,7 +180,7 @@
                   <tr>
                     <th>OS</td>
                       <td>
-                        <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/480px-Windows_logo_-_2012.svg.png" width="40" height="40" alt="Windows"/>
+                        <img src ="https://github.com/user-attachments/assets/b6b94f0a-0cb2-4e33-b921-35cd5797015b" width="40" height="40" alt="Windows"/>
                         <img src ="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" width="40" height="40" alt="Windows Server"/>
                         <img src ="https://www.ateamsystems.com/wp-content/uploads/2016/11/freebsd-logo.png" width="40" height="40" alt="FreeBsd"/>
                         <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" alt="MacOs"/>
@@ -194,7 +194,7 @@
                         <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40" alt="Visual Studio Code"/>   
                         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" width="40" height="40" alt="cursor"/>
                         <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" alt="Eclipse"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" alt="InteliJ"/>     
+                        <img src="https://github.com/user-attachments/assets/855c18d3-01ad-4107-9a69-c9815e3f6fc9" width="40" height="40" alt="InteliJ"/>     
                     </td>
                   </tr>
                   <tr>
@@ -203,11 +203,11 @@
                         <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" alt="Photoshop"/>
                         <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" alt="Illustrator"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="40" alt="Postman"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/2560px-Vmware.svg.png" width="60" height="40" alt="Vmware"/>
+                        <img src="https://github.com/user-attachments/assets/bb43d722-c3dd-46b5-a63e-28cfb1e82394" width="60" height="40" alt="Vmware"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="60" height="40" alt="Hyper-V"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" height="40" alt="Wordpress"/>
                         <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="40" height="40" alt="DBeaver"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/2560px-Slack_Technologies_Logo.svg.png" width="80" height="40" alt="Slack"/>        
+                        <img src="https://github.com/user-attachments/assets/f8d9d13e-d797-41b8-8e2e-dc643029be20" width="80" height="40" alt="Slack"/>        
                         <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Microsoft_Office_Teams_%282019%E2%80%932025%29.svg" width="40" height="40" alt="Teams"/>     
                     </td>
                   </tr>
