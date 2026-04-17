@@ -1,4 +1,4 @@
-<img width="1200" height="800" alt="Flag_of_Turkey" src="https://github.com/user-attachments/assets/c31af0b5-352c-4da1-be0a-cc37f3e08b40" /><p align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
 </p>
 
@@ -16,7 +16,7 @@
             </td>
          </tr>
           <tr>
-            <td><img src="https://tr.wikipedia.org/wiki/T%C3%BCrk_bayra%C4%9F%C4%B1#/media/Dosya:Flag_of_Turkey.svg" width='96'></td>
+            <td><img src="https://www.flaticon.com/free-icon/turkey_14009824?term=turkey+flags&page=1&position=7&origin=search&related_id=14009824" width='96'></td>
             <td>Merhaba, adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar                           Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif                   bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi                       güncellemekteyim. Şuan aktif olarak ASP.NET Core, Java ve Unity alanlarında çalışmaktayım.</td>
           </tr>
           <tr>
