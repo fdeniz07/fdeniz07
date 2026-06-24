@@ -102,7 +102,7 @@
         </a>
         </br>
         <p align="center">
-          <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@fdeniz07/0213d8c9-d802-4d88-b711-1a3e43e247f6.png"></a>
+          <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@fdeniz07/e190ebcc-3ff7-4778-bb5b-a987ff9999bc.svg"></a>
         </p>
     </div>
 </div>
@@ -143,6 +143,7 @@
                     <td>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" alt="c#"/>  
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?_=20250701090410" width="40" height="40" alt="Python"/> 
                         <img src="https://user-images.githubusercontent.com/81612480/170154517-40e63112-9249-4fb1-90f6-70ce35af9086.png" width="40" height="40" alt="Nodejs"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".Net"/>
                         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" alt="Unity"/>
@@ -181,7 +182,7 @@
                       <td>
                         <img src ="https://github.com/user-attachments/assets/b6b94f0a-0cb2-4e33-b921-35cd5797015b" width="40" height="40" alt="Windows"/>
                         <img src ="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" width="40" height="40" alt="Windows Server"/>
-                        <img src ="https://www.ateamsystems.com/wp-content/uploads/2016/11/freebsd-logo.png" width="40" height="40" alt="FreeBsd"/>
+                        <img src ="https://www.freebsd.org/images/beastie-right.svg" width="40" height="40" alt="FreeBsd"/>
                         <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" alt="MacOs"/>
                         <img src ="https://user-images.githubusercontent.com/81612480/170157154-a7c13e18-f437-4e10-8ed3-8b10339482f5.png" width="40" height="40" alt="Linux"/>
                     </td>
