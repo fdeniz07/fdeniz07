@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
 </p>
 
-<table border="1" width="70%" cellpadding="10" cellspacing="10">
+<table border="1" width="100%" cellpadding="10" cellspacing="10">
     <thead>
       <tr>
         <th>Language</th>
@@ -12,16 +12,15 @@
     <tbody>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td>Hello, my name is Fatih Deniz. I graduated from Selcuk University with my degree in Computer Technology and Programming in 2006. Until 2012 I worked in                 various positions in the IT department of many companies in Turkey. I've been living in Germany since the end of 2012. I worked actively as a system                    and network administrator for a company until May 2020. Since May 2020 I have been training on various platforms so that my knowledge is always up to                   date. I am currently training in the areas of ASP.NET Core, Java and Unity.
-            </td>
+            <td> <p>Hello, my name is Fatih Deniz. I graduated from Selçuk University in 2006 with a degree in Computer Technology and Programming, and from Anadolu University in 2010 with a degree in Business Administration.</p> <p>I have been actively working in the IT industry since 2004. Until 2012, I held various positions within IT departments of several companies in Türkiye. Since the end of 2012, I have been living in Germany.</p> <p>Until May 2020, I worked as a System and Network Administrator. Since then, I have been working as a Fullstack Software Developer, building software solutions and developing products across different domains. At the same time, I continuously improve my skills and stay up to date with modern technologies and software development practices.</p> <p>My current focus is on backend development using C#, ASP.NET Core, Java Spring Boot, and Python. On the frontend side, I primarily work with React and also have foundational knowledge of Angular.</p> </td>
          </tr>
           <tr>
              <td> <img width="96" alt="turkey" src="https://github.com/user-attachments/assets/bdd25cbf-d6dd-41b8-98f3-981932e4c2cb" /></td>
-            <td>Merhaba, adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar                           Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif                   bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi                       güncellemekteyim. Şuan aktif olarak ASP.NET Core, Java ve Unity alanlarında çalışmaktayım.</td>
+            <td> <p>Merhaba, ben Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden, 2010 yılında ise Anadolu Üniversitesi İşletme bölümünden mezun oldum.</p> <p>2004 yılından bu yana bilişim sektöründe aktif olarak çalışmaktayım. 2012 yılına kadar Türkiye'de birçok şirkette IT departmanlarında çeşitli görevlerde bulundum. 2012 yılının sonundan itibaren Almanya'da yaşamaktayım.</p> <p>Mayıs 2020 yılına kadar Sistem ve Ağ Yöneticisi olarak görev yaptım. O tarihten bu yana Fullstack Yazılım Geliştirici olarak çalışıyor, farklı projeler ve ürünler geliştiriyorum. Aynı zamanda yeni teknolojileri takip ederek teknik bilgi ve becerilerimi sürekli güncel tutuyorum.</p> <p>Günümüzde ağırlıklı olarak Backend tarafında C# / ASP.NET Core, Java Spring Boot ve Python; Frontend tarafında ise React ile çalışıyorum. Ayrıca Angular konusunda temel seviyede bilgi sahibiyim.</p> </td>
           </tr>
           <tr>
             <td> <img width="256" alt="german" src="https://github.com/user-attachments/assets/21b99a80-b5b2-416b-9058-7d38e5450a57" /></td>
-            <td>Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war                  ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai                    2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 bilde ich mich auf verschiedenen Plattformen fort,                       damit meine Kenntnisse immer auf den neuesten Stand sind. Ich bilde mich derzeit in den Bereichen ASP.NET Core, Java und Unity weiter.</td>
+           <td> <p>Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Selçuk Universität sowie 2010 einen Abschluss in Betriebswirtschaftslehre an der Anadolu Universität erworben.</p> <p>Seit 2004 bin ich in der IT-Branche tätig. Bis 2012 war ich in verschiedenen Positionen in den IT-Abteilungen mehrerer Unternehmen in der Türkei beschäftigt. Seit Ende 2012 lebe ich in Deutschland.</p> <p>Bis Mai 2020 arbeitete ich als System- und Netzwerkadministrator. Seitdem bin ich als Fullstack Softwareentwickler tätig und entwickle verschiedene Softwarelösungen und Produkte. Gleichzeitig erweitere ich kontinuierlich mein Wissen und halte mich über neue Technologien und moderne Entwicklungsansätze auf dem Laufenden.</p> <p>Mein Schwerpunkt liegt heute im Backend-Bereich mit C#, ASP.NET Core, Java Spring Boot und Python. Im Frontend arbeite ich hauptsächlich mit React und verfüge zudem über Grundkenntnisse in Angular.</p> </td>
           </tr>
     </tbody>
 </table>
