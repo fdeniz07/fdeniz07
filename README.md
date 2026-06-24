@@ -206,7 +206,7 @@
                         <img src="https://github.com/user-attachments/assets/bb43d722-c3dd-46b5-a63e-28cfb1e82394" width="60" height="40" alt="Vmware"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="60" height="40" alt="Hyper-V"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" height="40" alt="Wordpress"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="40" height="40" alt="DBeaver"/>
+                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="40" alt="DBeaver"/>
                         <img src="https://github.com/user-attachments/assets/f8d9d13e-d797-41b8-8e2e-dc643029be20" width="80" height="40" alt="Slack"/>        
                         <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Microsoft_Office_Teams_%282019%E2%80%932025%29.svg" width="40" height="40" alt="Teams"/>     
                     </td>
@@ -217,8 +217,8 @@
                         <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40" alt="Scrum"/>
                         <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40" alt="Kanban"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="Github"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" width="60" height="50" alt="Bitbucket"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="60" height="50" alt="jira"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" width="120" height="40" alt="Bitbucket"/>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="100" height="40" alt="jira"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"alt="Docker"/>
                     </td>
                   </tr>
