@@ -122,7 +122,7 @@
             <tbody>
                 <tr>
                     <th>Frontend</td>
-                      <td>
+                      <td valign="middle">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" alt="Bootstrap5"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="JQuery"/>
@@ -140,7 +140,7 @@
                  </tr>
                   <tr>
                     <th>Backend</td>
-                    <td>
+                    <td valign="middle">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" alt="c#"/>  
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/> 
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?_=20250701090410" width="40" height="40" alt="Python"/> 
@@ -153,7 +153,7 @@
                   </tr>
                   <tr>
                     <th>Database</td>
-                      <td>
+                    <td valign="middle">
                         <img src="https://github.com/user-attachments/assets/2b76f870-fccd-411f-9008-e4e4bb7e9f20" alt="sqlserver" width="60" height="40" alt="MS SQL"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="40" alt="PostgreSql"/>
                         <img src="https://user-images.githubusercontent.com/81612480/170155385-a4f08eaf-3476-4c57-82a9-6a6488ab36c6.png" width="40" height="40" alt="MySql"/>
@@ -162,24 +162,24 @@
                   </tr>
                   <tr>
                     <th>Caching & Quee</td>
-                      <td>
+                      <td valign="middle">
                         <img src="https://github.com/user-attachments/assets/adff645e-9fa2-48be-87b0-ff8f33c2224b" width="40" height="40" alt="Redis"/> 
                         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/H2_logo.png" width="40" height="40" alt="H2"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="120" height="40" alt="ElasticSearch"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="120" height="30" alt="RabbitMq"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="100" height="40" alt="ElasticSearch"/> 
                         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_Solr_logo.svg" width="60" height="40" alt="Apache SOLR"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="100" height="20" alt="RabbitMq"/> 
                     </td>
                   </tr>
                   <tr>
                     <th>Cloud</td>
-                     <td>
+                      <td valign="middle">
                         <img src="https://user-images.githubusercontent.com/81612480/170156579-7222c5ef-fd78-40e6-a79f-52ff47da973a.png" width="60" height="40" alt="Azure"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="40" alt="AWS"/>    
                      </td>
                   </tr>
                   <tr>
                     <th>OS</td>
-                      <td>
+                    <td valign="middle">
                         <img src ="https://github.com/user-attachments/assets/b6b94f0a-0cb2-4e33-b921-35cd5797015b" width="40" height="40" alt="Windows"/>
                         <img src ="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" width="40" height="40" alt="Windows Server"/>
                         <img src ="https://www.freebsd.org/images/beastie-right.svg" width="40" height="40" alt="FreeBsd"/>
@@ -189,7 +189,7 @@
                   </tr>
                   <tr>
                     <th>Editors</th>
-                      <td>
+                    <td valign="middle">
                         <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" alt="Visual Studio"/>
                         <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40" alt="Visual Studio Code"/>   
                         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" width="40" height="40" alt="cursor"/>
@@ -199,7 +199,7 @@
                   </tr>
                   <tr>
                     <th>Tools</th>
-                      <td>
+                    <td valign="middle">
                         <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" alt="Photoshop"/>
                         <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" alt="Illustrator"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="40" alt="Postman"/>
@@ -213,7 +213,7 @@
                   </tr>
                   <tr>
                     <th>Dev-Ops</td>
-                     <td>
+                    <td valign="middle">
                         <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40" alt="Scrum"/>
                         <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40" alt="Kanban"/>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="Github"/>
