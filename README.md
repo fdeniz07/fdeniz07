@@ -11,15 +11,15 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
+            <td align="center"><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
             <td> <p>Hello, my name is Fatih Deniz. I graduated from Selçuk University in 2006 with a degree in Computer Technology and Programming, and from Anadolu University in 2010 with a degree in Business Administration.</p> <p>I have been actively working in the IT industry since 2004. Until 2012, I held various positions within IT departments of several companies in Türkiye. Since the end of 2012, I have been living in Germany.</p> <p>Until May 2020, I worked as a System and Network Administrator. Since then, I have been working as a Fullstack Software Developer, building software solutions and developing products across different domains. At the same time, I continuously improve my skills and stay up to date with modern technologies and software development practices.</p> <p>My current focus is on backend development using C#, ASP.NET Core, Java Spring Boot, and Python. On the frontend side, I primarily work with React and also have foundational knowledge of Angular.</p> </td>
          </tr>
           <tr>
-             <td> <img width="96" alt="turkey" src="https://github.com/user-attachments/assets/bdd25cbf-d6dd-41b8-98f3-981932e4c2cb" /></td>
+             <td align="center"> <img width="96" alt="turkey" src="https://github.com/user-attachments/assets/bdd25cbf-d6dd-41b8-98f3-981932e4c2cb" /></td>
             <td> <p>Merhaba, ben Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden, 2010 yılında ise Anadolu Üniversitesi İşletme bölümünden mezun oldum.</p> <p>2004 yılından bu yana bilişim sektöründe aktif olarak çalışmaktayım. 2012 yılına kadar Türkiye'de birçok şirkette IT departmanlarında çeşitli görevlerde bulundum. 2012 yılının sonundan itibaren Almanya'da yaşamaktayım.</p> <p>Mayıs 2020 yılına kadar Sistem ve Ağ Yöneticisi olarak görev yaptım. O tarihten bu yana Fullstack Yazılım Geliştirici olarak çalışıyor, farklı projeler ve ürünler geliştiriyorum. Aynı zamanda yeni teknolojileri takip ederek teknik bilgi ve becerilerimi sürekli güncel tutuyorum.</p> <p>Günümüzde ağırlıklı olarak Backend tarafında C# / ASP.NET Core, Java Spring Boot ve Python; Frontend tarafında ise React ile çalışıyorum. Ayrıca Angular konusunda temel seviyede bilgi sahibiyim.</p> </td>
           </tr>
           <tr>
-            <td> <img width="256" alt="german" src="https://github.com/user-attachments/assets/21b99a80-b5b2-416b-9058-7d38e5450a57" /></td>
+            <td align="center"> <img width="256" alt="german" src="https://github.com/user-attachments/assets/21b99a80-b5b2-416b-9058-7d38e5450a57" /></td>
            <td> <p>Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Selçuk Universität sowie 2010 einen Abschluss in Betriebswirtschaftslehre an der Anadolu Universität erworben.</p> <p>Seit 2004 bin ich in der IT-Branche tätig. Bis 2012 war ich in verschiedenen Positionen in den IT-Abteilungen mehrerer Unternehmen in der Türkei beschäftigt. Seit Ende 2012 lebe ich in Deutschland.</p> <p>Bis Mai 2020 arbeitete ich als System- und Netzwerkadministrator. Seitdem bin ich als Fullstack Softwareentwickler tätig und entwickle verschiedene Softwarelösungen und Produkte. Gleichzeitig erweitere ich kontinuierlich mein Wissen und halte mich über neue Technologien und moderne Entwicklungsansätze auf dem Laufenden.</p> <p>Mein Schwerpunkt liegt heute im Backend-Bereich mit C#, ASP.NET Core, Java Spring Boot und Python. Im Frontend arbeite ich hauptsächlich mit React und verfüge zudem über Grundkenntnisse in Angular.</p> </td>
           </tr>
     </tbody>
@@ -165,9 +165,9 @@
                       <td>
                         <img src="https://github.com/user-attachments/assets/adff645e-9fa2-48be-87b0-ff8f33c2224b" width="40" height="40" alt="Redis"/> 
                         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/H2_logo.png" width="40" height="40" alt="H2"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="80" height="40" alt="ElasticSearch"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="80" height="40" alt="RabbitMq"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_Solr_logo.svg" width="40" height="40" alt="Apache SOLR"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="120" height="40" alt="ElasticSearch"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="120" height="30" alt="RabbitMq"/> 
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_Solr_logo.svg" width="60" height="40" alt="Apache SOLR"/> 
                     </td>
                   </tr>
                   <tr>
