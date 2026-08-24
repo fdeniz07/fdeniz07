@@ -72,7 +72,7 @@ I continuously improve my technical skills through practical projects, experimen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3">
 </p>
 
-**React · JavaScript · TypeScript · HTML · CSS**
+**React · Angular · JavaScript · TypeScript · HTML · CSS**
 
 ### Data & Messaging
 
@@ -84,7 +84,7 @@ I continuously improve my technical skills through practical projects, experimen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="42" height="42" alt="RabbitMQ">
 </p>
 
-**SQL Server · PostgreSQL · MongoDB · Redis · RabbitMQ · Elasticsearch**
+**SQL Server · PostgreSQL · MongoDB · Redis · RabbitMQ · Elasticsearch · Kafka · **
 
 ### DevOps & Cloud
 
@@ -97,7 +97,7 @@ I continuously improve my technical skills through practical projects, experimen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS">
 </p>
 
-**Git · GitHub · GitHub Actions · Docker · Azure · AWS**
+**Git · GitHub · GitHub Actions · Docker · Kubernetes · Azure · AWS**
 
 ---
 
