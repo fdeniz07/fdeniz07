@@ -84,7 +84,7 @@ I continuously improve my technical skills through practical projects, experimen
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="42" height="42" alt="RabbitMQ">
 </p>
 
-**SQL Server · PostgreSQL · MongoDB · Redis · RabbitMQ · Elasticsearch · Kafka · **
+**SQL Server · PostgreSQL · MongoDB · Redis · RabbitMQ · Elasticsearch · Kafka**
 
 ### DevOps & Cloud
 
