@@ -1,231 +1,216 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Welcome+to+my+Github+page;I+am+a+Fullstack+Software+Developer&font=Fira%20Code&center=true&width=740&height=45&color=293462&vCenter=true&size=30">
+<div align="center">
+
+# Hi, I'm Fatih Deniz 👋
+
+### Full-Stack Software Developer
+
+**C# / .NET · Java / Spring Boot · Python · React · Docker · Git**
+
+**20+ years of experience in IT · Software Development since 2020 · Based in Germany**
+
+<p>
+  <a href="https://github.com/fdeniz07">
+    <img src="https://img.shields.io/badge/GitHub-fdeniz07-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/denizfatih">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatih%20Deniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:deniz.fatih@hotmail.de">
+    <img src="https://img.shields.io/badge/Email-deniz.fatih%40hotmail.de-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<table border="1" width="100%" cellpadding="10" cellspacing="10">
-    <thead>
-      <tr>
-        <th>Language</th>
-        <th>About Me</th>
-      </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="center"><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td> <p>Hello, my name is Fatih Deniz. I graduated from Selçuk University in 2006 with a degree in Computer Technology and Programming, and from Anadolu University in 2010 with a degree in Business Administration.</p> <p>I have been actively working in the IT industry since 2004. Until 2012, I held various positions within IT departments of several companies in Türkiye. Since the end of 2012, I have been living in Germany.</p> <p>Until May 2020, I worked as a System and Network Administrator. Since then, I have been working as a Fullstack Software Developer, building software solutions and developing products across different domains. At the same time, I continuously improve my skills and stay up to date with modern technologies and software development practices.</p> <p>My current focus is on backend development using C#, ASP.NET Core, Java Spring Boot, and Python. On the frontend side, I primarily work with React and also have foundational knowledge of Angular.</p> </td>
-         </tr>
-          <tr>
-             <td align="center"> <img width="96" alt="turkey" src="https://github.com/user-attachments/assets/bdd25cbf-d6dd-41b8-98f3-981932e4c2cb" /></td>
-            <td> <p>Merhaba, ben Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden, 2010 yılında ise Anadolu Üniversitesi İşletme bölümünden mezun oldum.</p> <p>2004 yılından bu yana bilişim sektöründe aktif olarak çalışmaktayım. 2012 yılına kadar Türkiye'de birçok şirkette IT departmanlarında çeşitli görevlerde bulundum. 2012 yılının sonundan itibaren Almanya'da yaşamaktayım.</p> <p>Mayıs 2020 yılına kadar Sistem ve Ağ Yöneticisi olarak görev yaptım. O tarihten bu yana Fullstack Yazılım Geliştirici olarak çalışıyor, farklı projeler ve ürünler geliştiriyorum. Aynı zamanda yeni teknolojileri takip ederek teknik bilgi ve becerilerimi sürekli güncel tutuyorum.</p> <p>Günümüzde ağırlıklı olarak Backend tarafında C# / ASP.NET Core, Java Spring Boot ve Python; Frontend tarafında ise React ile çalışıyorum. Ayrıca Angular konusunda temel seviyede bilgi sahibiyim.</p> </td>
-          </tr>
-          <tr>
-            <td align="center"> <img width="256" alt="german" src="https://github.com/user-attachments/assets/21b99a80-b5b2-416b-9058-7d38e5450a57" /></td>
-           <td> <p>Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Selçuk Universität sowie 2010 einen Abschluss in Betriebswirtschaftslehre an der Anadolu Universität erworben.</p> <p>Seit 2004 bin ich in der IT-Branche tätig. Bis 2012 war ich in verschiedenen Positionen in den IT-Abteilungen mehrerer Unternehmen in der Türkei beschäftigt. Seit Ende 2012 lebe ich in Deutschland.</p> <p>Bis Mai 2020 arbeitete ich als System- und Netzwerkadministrator. Seitdem bin ich als Fullstack Softwareentwickler tätig und entwickle verschiedene Softwarelösungen und Produkte. Gleichzeitig erweitere ich kontinuierlich mein Wissen und halte mich über neue Technologien und moderne Entwicklungsansätze auf dem Laufenden.</p> <p>Mein Schwerpunkt liegt heute im Backend-Bereich mit C#, ASP.NET Core, Java Spring Boot und Python. Im Frontend arbeite ich hauptsächlich mit React und verfüge zudem über Grundkenntnisse in Angular.</p> </td>
-          </tr>
-    </tbody>
-</table>
- <!--Statistics-->
-
-<div align="center">
-    <div>
-        <a href="https://github.com/fdeniz07/github-profile-views-counter">
-            <img align="center" src="https://komarev.com/ghpvc/?username=fdeniz07&color=blue">
-        </a>
-        <a href="https://github.com/fdeniz07?tab=followers">
-            <img align="center"  src="https://img.shields.io/github/followers/fdeniz07?style=flat-square&color=red">
-        </a>      
-    </div>
-    <div>
-        <h5><a>Follow me around the web:</a></h5>
-    </div>
-    <div>
-        <a href="https://www.linkedin.com/in/denizfatih" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <a href="https://www.instagram.com/fatih_deniz_07" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-        <!--
-        <a href="https://www.facebook.com/fdeniz07" target="_blank">
-            <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-        </a>
-        -->
-        <a href="https://www.twitter.com/fdeniz_07" target="_blank"  rel="noopener">
-            <img align="center" src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-        </a>
-    </div>
-</div>
-</br>
-<hr />
-<div align="center">
-<h2> 📈 GitHub Profile Summary</h2>
-</div>
-<div align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdeniz07&theme=monokai)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdeniz07&theme=monokai)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fdeniz07&theme=monokai)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fdeniz07&theme=monokai)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdeniz07&theme=monokai)
-
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+I am a **Full-Stack Software Developer** with more than 20 years of experience in the IT industry.
+
+I started my professional IT career in 2004 and worked in various IT roles before transitioning into software development. Until May 2020, my professional background was primarily focused on **system and network administration**.
+
+Since 2020, I have been working as a **Full-Stack Software Developer**, building software solutions and developing products across different domains.
+
+My current focus is primarily on **backend development** using **C#/.NET** and **Java/Spring Boot**, with additional experience in **Python** and modern frontend technologies such as **React**.
+
+I am particularly interested in:
+
+* Software architecture and clean code
+* Backend and API development
+* Git and modern development workflows
+* Docker and containerization
+* CI/CD and DevOps practices
+* Automation
+* AI-assisted software development
+
+I continuously improve my technical skills through practical projects, experimentation and hands-on development.
+
+---
+
+## 🛠️ Core Technologies
+
+### Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="42" height="42" alt=".NET">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="42" height="42" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" height="42" alt="Spring">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="42" height="42" alt="Python">
+</p>
+
+**C# · .NET · ASP.NET Core · Java · Spring Boot · Python**
+
+### Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3">
+</p>
+
+**React · JavaScript · TypeScript · HTML · CSS**
+
+### Data & Messaging
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42" height="42" alt="SQL Server">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42" height="42" alt="MongoDB">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42" height="42" alt="Redis">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="42" height="42" alt="RabbitMQ">
+</p>
+
+**SQL Server · PostgreSQL · MongoDB · Redis · RabbitMQ · Elasticsearch**
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="42" height="42" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="42" height="42" alt="Azure">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS">
+</p>
+
+**Git · GitHub · GitHub Actions · Docker · Azure · AWS**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [AIOS](https://github.com/fdeniz07/AIOS)
+
+An AI-assisted development and automation project focused on practical software engineering workflows.
+
+**Focus:** `C#` · `.NET` · `Git` · `GitHub` · `Docker` · `Automation`
+
+---
+
+### 🏠 [RealEstateBackend](https://github.com/fdeniz07/RealEstateBackend)
+
+A backend-focused project demonstrating API and application development for a real-world domain.
+
+**Focus:** `C#` · `ASP.NET Core` · `REST API` · `Database`
+
+---
+
+### 🛒 [ETicaretAPI](https://github.com/fdeniz07/ETicaretAPI)
+
+An e-commerce API project focused on backend development and structured application design.
+
+**Focus:** `C#` · `ASP.NET Core` · `REST API` · `Database`
+
+---
+
+### 🧅 [OnionArchtiecture](https://github.com/fdeniz07/OnionArchtiecture)
+
+An architecture-focused project demonstrating separation of concerns and layered application design.
+
+**Focus:** `C#` · `.NET` · `Onion Architecture` · `Clean Code`
+
+---
+
+## 📚 Additional Projects
+
+### 🐍 [Python3_Kurs](https://github.com/fdeniz07/Python3_Kurs)
+
+Python learning and practice repository covering different Python concepts and exercises.
+
+### 🏗️ [MVCProjeKampi](https://github.com/fdeniz07/MVCProjeKampi)
+
+An MVC-based software development project focused on practical application development.
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-    <div>
-        <img src="https://github-readme-streak-stats-ochre-rho.vercel.app?user=fdeniz07&theme=dark&hide_border=true" />
-     </div>
-  <br>
-    <div>
-        <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-stats-extended.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false&include_all_commits=true&custom_title=Fatih+Deniz%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
-        </a>
-    </div>
-    <div>
-     <hr/>
-        <h2> Technologies I have worked with over the past year (based on my WakaTime statistics):
-            <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30> 
-        </h2>
-         <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&theme=highcontrast&hide_border=false&layout=compact" alt="Wakatime Stats" width="480" /> -->
-          <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&layout=compact&langs_count=20" alt="Wakatime Stats" width="480" />-->
-        <hr/>
-          </br>
-        <a href="https://wakatime.com/@e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f">
-             <img src="https://wakatime.com/badge/user/e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f.svg" alt="Total time coded since Jan 19 2022" />
-        </a>
-        </br>
-        <p align="center">
-          <a href="https://wakatime.com"><img width="700" src="https://wakatime.com/share/@fdeniz07/e190ebcc-3ff7-4778-bb5b-a987ff9999bc.svg"></a>
-        </p>
-    </div>
-</div>
-<hr />
-<div>
-    <div>
-        <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
-    </div>
-    <div>
-        <table border="2" width="70%" cellpadding="10" cellspacing="10">
-            <thead>
-              <tr>
-                <th></th>
-                <th>Language/Tools</th>
-              </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th>Frontend</td>
-                      <td valign="middle">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" alt="Bootstrap5"/>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="JQuery"/>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="40" height="40" alt="SASS" />
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="Javascript"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/AJAX_logo_by_gengns.svg" width="60" height="40" alt="Ajax"/>    
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-                        <img src="https://user-images.githubusercontent.com/81612480/170154947-688736c7-2026-4a43-9633-ce5d0facae9e.png" width="50" height="50" alt="Angular"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170480034-7a192755-70ef-4d44-8fe3-dcef22f4869b.png" width="40" height="40" alt="Typescript"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="40" height="40" alt="Blazor"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Material_Design_Logo.svg" width="40" height="40" alt="Material"/>
-                    </td>
-                 </tr>
-                  <tr>
-                    <th>Backend</td>
-                    <td valign="middle">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" alt="c#"/>  
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?_=20250701090410" width="40" height="40" alt="Python"/> 
-                        <img src="https://user-images.githubusercontent.com/81612480/170154517-40e63112-9249-4fb1-90f6-70ce35af9086.png" width="40" height="40" alt="Nodejs"/>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".Net"/>
-                        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" alt="Unity"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png" width="40" height="40" alt="Springboot"/>
-                        <img src="https://gokhan.ozar.net/wp-content/uploads/jsf-logo.jpg" width="60" height="40" alt="JSF"/>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th>Database</td>
-                    <td valign="middle">
-                        <img src="https://github.com/user-attachments/assets/2b76f870-fccd-411f-9008-e4e4bb7e9f20" alt="sqlserver" width="60" height="40" alt="MS SQL"/>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="40" alt="PostgreSql"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170155385-a4f08eaf-3476-4c57-82a9-6a6488ab36c6.png" width="40" height="40" alt="MySql"/>
-                        <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="80" height="40" alt="MongoDb"/>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th>Caching & Quee</td>
-                      <td valign="middle">
-                        <img src="https://github.com/user-attachments/assets/adff645e-9fa2-48be-87b0-ff8f33c2224b" width="40" height="40" alt="Redis"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/H2_logo.png" width="40" height="40" alt="H2"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" width="100" height="40" alt="ElasticSearch"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Apache_Solr_logo.svg" width="60" height="40" alt="Apache SOLR"/> 
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" width="100" height="20" alt="RabbitMq"/> 
-                    </td>
-                  </tr>
-                  <tr>
-                    <th>Cloud</td>
-                      <td valign="middle">
-                        <img src="https://user-images.githubusercontent.com/81612480/170156579-7222c5ef-fd78-40e6-a79f-52ff47da973a.png" width="60" height="40" alt="Azure"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="40" alt="AWS"/>    
-                     </td>
-                  </tr>
-                  <tr>
-                    <th>OS</td>
-                    <td valign="middle">
-                        <img src ="https://github.com/user-attachments/assets/b6b94f0a-0cb2-4e33-b921-35cd5797015b" width="40" height="40" alt="Windows"/>
-                        <img src ="https://e7.pngegg.com/pngimages/534/305/png-clipart-windows-server-2012-logo-organization-brand-logo-windows-7-blue-angle.png" width="40" height="40" alt="Windows Server"/>
-                        <img src ="https://www.freebsd.org/images/beastie-right.svg" width="40" height="40" alt="FreeBsd"/>
-                        <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" alt="MacOs"/>
-                        <img src ="https://user-images.githubusercontent.com/81612480/170157154-a7c13e18-f437-4e10-8ed3-8b10339482f5.png" width="40" height="40" alt="Linux"/>
-                    </td>
-                  </tr>
-                  <tr>
-                    <th>Editors</th>
-                    <td valign="middle">
-                        <img src ="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="80" height="40" alt="Visual Studio"/>
-                        <img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40" alt="Visual Studio Code"/>   
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" width="40" height="40" alt="cursor"/>
-                        <img src="https://ih1.redbubble.net/image.373803469.4778/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg" width="40" height="40" alt="Eclipse"/>
-                        <img src="https://github.com/user-attachments/assets/855c18d3-01ad-4107-9a69-c9815e3f6fc9" width="40" height="40" alt="InteliJ"/>     
-                    </td>
-                  </tr>
-                  <tr>
-                    <th>Tools</th>
-                    <td valign="middle">
-                        <img src ="https://user-images.githubusercontent.com/81612480/170158610-2101eafd-4fe0-4aa3-988d-3ed070216926.png" width="40" height="40" alt="Photoshop"/>
-                        <img src ="https://user-images.githubusercontent.com/81612480/170158630-c301ef04-9d66-47ff-9af4-b80bf4096638.png" width="40" height="40" alt="Illustrator"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="80" height="40" alt="Postman"/>
-                        <img src="https://github.com/user-attachments/assets/bb43d722-c3dd-46b5-a63e-28cfb1e82394" width="60" height="40" alt="Vmware"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170157965-a47afc51-0835-4c8d-b4d3-5f39f3487d26.png" width="60" height="40" alt="Hyper-V"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" height="40" alt="Wordpress"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/184992666-eeeb07d5-6111-4208-9952-836d370adff3.png" width="60" height="40" alt="DBeaver"/>
-                        <img src="https://github.com/user-attachments/assets/f8d9d13e-d797-41b8-8e2e-dc643029be20" width="80" height="40" alt="Slack"/>        
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Microsoft_Office_Teams_%282019%E2%80%932025%29.svg" width="40" height="40" alt="Teams"/>     
-                    </td>
-                  </tr>
-                  <tr>
-                    <th>Dev-Ops</td>
-                    <td valign="middle">
-                        <img src="https://user-images.githubusercontent.com/81612480/210189613-f6a4854d-4e1c-4355-8117-d38989d5b23f.jpg" width="60" height="40" alt="Scrum"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/210189620-8eb2ed30-15c3-4972-8ce7-28ac654d38ce.png" width="60" height="40" alt="Kanban"/>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="Github"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png" width="120" height="40" alt="Bitbucket"/>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="100" height="40" alt="jira"/>
-                        <img src="https://user-images.githubusercontent.com/81612480/170156647-44127661-1e67-4e32-a70c-1579c08624d3.png" width="60" height="40"alt="Docker"/>
-                    </td>
-                  </tr>
-            </tbody>
-        </table>
-    </div>
+
+<a href="https://github.com/fdeniz07">
+  <img src="https://github-stats-extended.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false&include_all_commits=true&custom_title=Fatih%20Deniz%27s%20GitHub%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage" alt="Fatih Deniz's GitHub Stats">
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats-ochre-rho.vercel.app?user=fdeniz07&theme=dark&hide_border=true" alt="GitHub Contribution Streak">
+
 </div>
 
-<h2>💰 You can help me by Donating</h2>
-<div>
-     <a href="https://paypal.me/Fdeniz07">
-            <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> 
-        </a>
-    <p>You can make a one-time donation via PayPal. I'll probably buy a coffee/tea. 🍵</p>
-    <p>Thanks! ❤️</p>
+---
+
+## ⏱️ Recent Coding Activity
+
+My recent development activity is tracked with WakaTime.
+
+<div align="center">
+
+<a href="https://wakatime.com/@e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f">
+  <img src="https://wakatime.com/badge/user/e78f80fe-57b1-40e4-a9dc-cfa8d9b9ae3f.svg" alt="WakaTime">
+</a>
+
+<br><br>
+
+<a href="https://wakatime.com">
+  <img width="700" src="https://wakatime.com/share/@fdeniz07/e190ebcc-3ff7-4778-bb5b-a987ff9999bc.svg" alt="WakaTime Coding Activity">
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Profile
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdeniz07&theme=monokai" alt="GitHub Profile Details">
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/denizfatih">
+  <img src="https://img.shields.io/badge/LinkedIn-Fatih%20Deniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:deniz.fatih@hotmail.de">
+  <img src="https://img.shields.io/badge/Email-deniz.fatih%40hotmail.de-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
 </div>
