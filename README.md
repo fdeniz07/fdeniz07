@@ -113,17 +113,17 @@ An AI-assisted development and automation project focused on practical software 
 
 ### 🏠 [RealEstateBackend](https://github.com/fdeniz07/RealEstateBackend)
 
-A backend-focused project demonstrating API and application development for a real-world domain.
+A real-estate backend application built with Java and Spring Boot, featuring layered architecture, JWT authentication, multilingual support and REST API documentation.
 
-**Focus:** `C#` · `ASP.NET Core` · `REST API` · `Database`
+**Focus:** `Java 17` · `Spring Boot 3` · `JPA` · `Hibernate` · `JWT` · `PostgreSQL` · `Swagger/OpenAPI` · `N-Tier Architecture`
 
 ---
 
 ### 🛒 [ETicaretAPI](https://github.com/fdeniz07/ETicaretAPI)
 
-An e-commerce API project focused on backend development and structured application design.
+A full-stack e-commerce application built with ASP.NET Core 6, Angular 14 and Onion Architecture.
 
-**Focus:** `C#` · `ASP.NET Core` · `REST API` · `Database`
+**Focus:** `ASP.NET Core 6` · `Onion Architecture` · `CQRS` · `MediatR` · `Entity Framework Core` · `JWT` · `ASP.NET Core Identity` · `Angular 14` · `PostgreSQL` · `Docker` · `Azure Blob`
 
 ---
 
