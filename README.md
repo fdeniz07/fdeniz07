@@ -79,13 +79,7 @@
   <br>
     <div>
         <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false" />
-        </a>
-    </div>
-    <br>
-    <div>
-        <a href="https://github.com/fdeniz07">
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=false&layout=compact&langs_count=20" />
+            <img align="center" src="https://github-stats-extended.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=false&include_all_commits=true&custom_title=Fatih+Deniz%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
         </a>
     </div>
     <div>
@@ -230,6 +224,8 @@
 <h2>💰 You can help me by Donating</h2>
 <div>
      <a href="https://paypal.me/Fdeniz07">
-            <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+            <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> 
         </a>
+    <p>You can make a one-time donation via PayPal. I'll probably buy a coffee/tea. 🍵</p>
+    <p>Thanks! ❤️</p>
 </div>
