@@ -105,9 +105,11 @@ I continuously improve my technical skills through practical projects, experimen
 
 ### 🤖 [AIOS](https://github.com/fdeniz07/AIOS)
 
-An AI-assisted development and automation project focused on practical software engineering workflows.
+**AIOS (Artificial Intelligence Operating System)** is a repository-driven AI engineering framework designed to turn AI coding assistants into repository-aware engineering partners.
 
-**Focus:** `C#` · `.NET` · `Git` · `GitHub` · `Docker` · `Automation`
+Instead of relying primarily on prompts, AIOS embeds project context, rules, workflows, knowledge, validation and governance directly into the repository.
+
+**Focus:** `AI Engineering` · `Repository Intelligence` · `AI Workflows` · `Governance` · `Human-in-the-Loop` · `Repository Safety`
 
 ---
 
