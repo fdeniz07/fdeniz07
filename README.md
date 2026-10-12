@@ -158,7 +158,7 @@ An MVC-based software development project focused on practical application devel
 <div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=fdeniz07)
 <!-- <img src="https://komarev.com/ghpvc/?username=fdeniz07&color=blue" alt="Profile Views"> -->
-<img src="https://komarev.com/ghpvc/?username=fdeniz07&color=blue" alt="Profile Views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=fdeniz07&color=blue" alt="Profile Views" /> -->
 
 <!-- <img src="https://raw.githubusercontent.com/fdeniz07/github-profile-views-counter/master/svg/profile/badge.svg" alt="Profile Views" /> -->
 
