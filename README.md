@@ -151,13 +151,29 @@ An architecture-focused project demonstrating separation of concerns and layered
 
 ## 📚 Additional Projects
 
+
 ### 🐍 [Python3_Kurs](https://github.com/fdeniz07/Python3_Kurs)
 
 Python learning and practice repository covering different Python concepts and exercises.
 
+**Focus:** `Python` · `Programming Fundamentals` · `Data Structures` · `Algorithms` · `Hands-on Exercises`
+
+
+
+### 🚀 [GitHub-DevOps-Learning-Path](https://github.com/fdeniz07/GitHub-DevOps-Learning-Path)
+
+A structured, project-based learning path for Git, GitHub, GitLab, GitHub Actions, CI/CD and modern DevOps practices. It combines conceptual explanations with hands-on exercises, labs and multilingual learning materials.
+
+**Focus:** `Git` · `GitHub` · `GitLab` · `GitHub Actions` · `CI/CD` · `Docker` · `DevOps` · `Hands-on Learning`
+
+
+
 ### 🏗️ [MVCProjeKampi](https://github.com/fdeniz07/MVCProjeKampi)
 
 An MVC-based software development project focused on practical application development.
+
+**Focus:** `C#` · `ASP.NET MVC` · `MVC Architecture` · `Backend Development` · `Web Applications`
+
 
 ---
 
