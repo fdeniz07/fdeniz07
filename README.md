@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Developer
 
-**C# / .NET · Java / Spring Boot · Python · React · Docker · Git**
+**C# / .NET · Java / Spring Boot · Python · React · Docker · Git · DevOps**
 
 **20+ years of experience in IT · Software Development since 2020 · Based in Germany**
 
