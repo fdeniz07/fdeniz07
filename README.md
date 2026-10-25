@@ -117,6 +117,14 @@ Instead of relying primarily on prompts, AIOS embeds project context, rules, wor
 
 ---
 
+### 🏦 [BankApp](https://github.com/fdeniz07/BankApp)
+
+A full-stack educational banking application for individual and corporate credit applications. It combines a **.NET 10 Clean Architecture** backend with a **React + TypeScript** frontend, demonstrating modular monolith design and reliable application workflows.
+
+**Focus:** `.NET 10` · `Clean Architecture` · `CQRS/MediatR` · `Domain Events` · `Transactional Outbox` · `Saga` · `Idempotency` · `SignalR` · `React` · `TypeScript` · `SQL Server` · `Redis` · `RabbitMQ` · `Docker Compose` · `GitHub Actions`
+
+---
+
 ### 🏠 [RealEstateBackend](https://github.com/fdeniz07/RealEstateBackend)
 
 A real-estate backend application built with Java and Spring Boot, featuring layered architecture, JWT authentication, multilingual support and REST API documentation.
